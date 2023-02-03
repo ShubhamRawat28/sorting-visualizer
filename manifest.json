@@ -1,0 +1,17 @@
+{
+    "name": "Sort it",
+    "short_name": "Sort_it",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "black",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons":
+    [
+        {
+            "src": "icons/YouTube Thumbnail 1280x720 px (1).png",
+            "type": "/image/png",
+            "sizes": "1280x720"
+        }
+    ]
+}
